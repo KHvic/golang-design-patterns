@@ -2,9 +2,10 @@
 
 ## Creational
 Singleton
+Factory Method
 
 ## Structural
-Structural
+Adapter
 
 ## Behavioral
 
