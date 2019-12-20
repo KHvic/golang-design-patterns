@@ -1,13 +1,14 @@
 # golang-design-patterns
 
 ## Creational
-Singleton
-Factory Method
+- Singleton
+- Factory Method
 
 ## Structural
-Adapter
+- Adapter
 
 ## Behavioral
+- Observer
 
 ## Reference
 - https://java-design-patterns.com/
