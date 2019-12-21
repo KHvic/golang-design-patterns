@@ -6,6 +6,7 @@
 
 ## Structural
 - Adapter
+- Facade
 
 ## Behavioral
 - Observer
