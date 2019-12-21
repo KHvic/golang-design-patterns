@@ -1,4 +1,4 @@
-# golang-design-patterns
+# Golang-design-patterns
 
 ## Creational
 - Singleton
@@ -9,6 +9,9 @@
 
 ## Behavioral
 - Observer
+
+## Architectural
+- Data Access Object
 
 ## Reference
 - https://java-design-patterns.com/
