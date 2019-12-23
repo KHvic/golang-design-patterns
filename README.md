@@ -9,6 +9,7 @@
 - Facade
 
 ## Behavioral
+- Chain of Responsibility
 - Observer
 
 ## Architectural
