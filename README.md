@@ -14,6 +14,7 @@
 
 ## Architectural
 - Data Access Object
+- Model View Controller (MVC)
 
 ## Reference
 - https://java-design-patterns.com/
