@@ -23,19 +23,19 @@ type Target interface {
 	Request()
 }
 
-// Adaptor concrete class implementing Target
+// Adapter concrete class implementing Target
 // Basically a wrapper to make Adaptee conform to Target class requirement of having Request method
-type Adaptor struct {
+type Adapter struct {
 	adaptee Adaptee
 }
 
-func (a Adaptor) Request() {
+func (a Adapter) Request() {
 	a.adaptee.SpecificRequest()
 }
 
 func main() {
 	adaptee := Adaptee{}
-	var target Target = Adaptor{adaptee}
+	var target Target = Adapter{adaptee}
 	// can now use Adaptee methods via Target
 	target.Request()
 }

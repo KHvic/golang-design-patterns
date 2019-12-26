@@ -6,6 +6,7 @@
 
 ## Structural
 - Adapter
+- Bridge
 - Facade
 
 ## Behavioral
