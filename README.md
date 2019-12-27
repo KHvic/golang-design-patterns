@@ -1,8 +1,9 @@
 # Golang-design-patterns
 
 ## Creational
-- Singleton
+- Builder
 - Factory Method
+- Singleton
 
 ## Structural
 - Adapter
