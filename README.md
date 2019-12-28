@@ -12,6 +12,7 @@
 
 ## Behavioral
 - Chain of Responsibility
+- Command
 - Observer
 
 ## Architectural
