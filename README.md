@@ -13,6 +13,7 @@
 ## Behavioral
 - Chain of Responsibility
 - Command
+- Iterator
 - Observer
 
 ## Architectural
