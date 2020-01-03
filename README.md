@@ -16,6 +16,7 @@
 - Command
 - Interpreter
 - Iterator
+- Memento
 - Observer
 
 ## Architectural
