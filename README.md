@@ -18,6 +18,7 @@
 - Iterator
 - Memento
 - Observer
+- State
 
 ## Architectural
 - Data Access Object
