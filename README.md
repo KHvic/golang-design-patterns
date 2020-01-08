@@ -19,6 +19,7 @@
 - Memento
 - Observer
 - State
+- Strategy
 
 ## Architectural
 - Data Access Object
