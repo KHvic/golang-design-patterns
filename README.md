@@ -20,6 +20,7 @@
 - Observer
 - State
 - Strategy
+- Template Method
 
 ## Architectural
 - Data Access Object
