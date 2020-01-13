@@ -21,6 +21,7 @@
 - State
 - Strategy
 - Template Method
+- Visitor
 
 ## Architectural
 - Data Access Object
